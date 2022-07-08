@@ -578,7 +578,9 @@ a{
 .section-distribuided-title {
     background-color: #1f2641;
 }
-
+.row-width {
+    max-width: 1349px;
+}
 .section-distribuided {
     background-color: #1f2641;
 }
