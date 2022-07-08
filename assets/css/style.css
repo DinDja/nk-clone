@@ -7,10 +7,6 @@
     box-sizing: border-box;
 }
 
-.row {
-    max-width: 1349px;
-}
-
 ul {
     list-style-type: none;
 }
