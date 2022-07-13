@@ -878,9 +878,9 @@ footer {
 }
 
 .logo__img {
-    width: 45px;
-    height: 51px;
-    background-image: url(/assets/images/nino.svg);
+    width: 155px;
+    height: 61px;
+    background-image: url(/assets/images/logo-ape.png);
     -webkit-background-size: contain;
     background-size: contain;
     background-position: center;
@@ -1018,6 +1018,9 @@ footer {
     .token-img{
         display: none;
     }
+    .box-width{
+        max-width: 411px;
+    }
     .section-title-token h2 {
         position: initial;
         left: 500px;
@@ -1026,5 +1029,14 @@ footer {
     }
     .bg-title{
         font-size: 59px;
+    }
+    .col-dist{
+        flex-wrap: wrap;
+    }
+    .canvas_wrapper{
+        width: 100%;
+    }
+    .section-team{
+        overflow: inherit;
     }
 }
